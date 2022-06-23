@@ -182,7 +182,7 @@ import { Contract, providers, utils } from "ethers";
             </div>
           </div>
 
-          <footer className={styles.footer}>Made by EXCALIOSE and LW3Punks</footer>
+          <footer className={styles.footer}>Made by EXCALIOSE for LW3Punks</footer>
         </div>
       );
     }
